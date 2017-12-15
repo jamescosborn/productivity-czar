@@ -1,7 +1,7 @@
 # Angular Extended Independent Project
 by James Osborn
 
-#### Table of Contents
+## Table of Contents
 ```
   i. Technical List  
   ii. Productivity Czar Wireframe  
@@ -73,12 +73,12 @@ I've worked on some really diverse teams in the past, and I know how much divers
 
 
 ## Productivity Czar Wireframe
-#### *An app the encourages you along the development cycle by incrementing a number every time you complete a task. Totally not vaporware.*
+#### *An app the encourages you along a production cycle by incrementing a number every time you complete a task. Totally not vaporware.*
 
 --
-![alt text](productivity-czar.png "Description goes here")
+![alt text](productivity-czar.png "A low-fi wireframe for a production encouragement app")
 
-## Taking a Break: A Lesson From Metal Dog
+## Taking a break: a lesson from Metal Dog
 
 2009 -- One random evening in my university days, I was playing an online video game called Call of Duty: Modern Warfare 2. It was a very popular game at the time with millions of players worldwide. Over the chat channel I heard someone say, "OMG, it's Metal Dog! Metal Dog is in our game!!! Metal Dog! Ahhhhh!"
 
