@@ -1,12 +1,16 @@
 # Angular Extended Independent Project
 by James Osborn
 
+*--*
+
 ## Table of Contents
 ```
   i. Technical List  
-  ii. Productivity Czar Wireframe  
+  ii. Productivity Czar, .entropy wireframes  
   iii. blog posts  
 ```
+
+*--*
 
 ## Technical List
 Every now and then it's good to pause and reflect on where you've come from and where you're going. Here are some areas I'd like to focus improving on in order to become a better developer:
@@ -71,12 +75,27 @@ I've worked on some really diverse teams in the past, and I know how much divers
 * Improving Spanish
 * Learning Japanese
 
+*--*
 
 ## Productivity Czar Wireframe
 #### *An app the encourages you along a production cycle by incrementing a number every time you complete a task. Totally not vaporware.*
 
 --
 ![alt text](productivity-czar.png "A low-fi wireframe for a production encouragement app")
+
+I spent a long time thinking about what this app should do, how many buttons it should have, and rearranging these buttons and their names on the wireframe. Finally I decided it should be much more simple and straightforward.   
+
+Growing up I always liked the Magic 8 Balls that would tell you your fortune. For that reason I picked the circular shape. It seems like circles are not as prevalent in app design, and everything is much more rectangular. I wanted to buck that trend with this idea.
+
+I used MS Paint for this wireframe, but I'm beginning to desire higher fidelity wire frames that what paint can produce. Sketch was recommended to me, but it is not available for PCs. After I made this wireframe, I spent some time been at Wireframe.cc today as an alternative for next week's group project wireframe.
+
+Here is one other wireframe I made for my Intro group project. I generally enjoy the initial stage of planning out projects and throwing ideas around.  I find the more everyone's voices and ideas are heard initially and throughout the development cycle, the more personally invested they will be in the success of the project.
+
+![alt text](proposedStructure2.png "A low-fi storyboard for an interactive cyberpunk short story")
+
+*-Storyboard from .entropy*
+
+*--*
 
 ## Taking a break: a lesson from Metal Dog
 
@@ -99,10 +118,15 @@ https://www.sciencedaily.com/releases/2011/02/110208131529.htm
 
 So next time you are facing down a particularly challenging dilemma, consider taking a break. It may very well be the solution to your problem.
 
+*--*
+
 ## What does it mean to be a good developer?
 
 To me, being a good developer means applying a combination of tenacity, attention to detail, high spirits, and hard work. It means being able to break down big problems into much smaller ones, then having the endurance and fortitude to knock out those tasks one at a time until you're done.  And you're never truly done.
 
+*--*
+
 ## License
 Copyright (c) 2017 James Osborn  
+Please contact the developer if you find a way to monetize this product.  
 This README.md uses the MIT license.
