@@ -45,13 +45,26 @@ I really like working with small teams of developers, finding out what their str
 * Project Management
 * Game Development & Unity
 * Technical Terminology
+
+### Employment Preparation
+
+I'm looking forward to taking some of the skills I've learned and putting them into practice in the field. In order to prepare myself for upcoming interviews, I'd like to focus on:
+
+
 * Whiteboarding Practice
 * Interview Practice
-* Creative Writing
+* Writing Cover Letters
+* Resume Preparation
+* Improving my LinkedIn
+* Blog posts
 * Technical Writing
 * Giving Presentations
+
+### New Spoken languages
+I've worked on some really diverse teams in the past, and I know how much diversity adds to a groups dynamics and success. I'd be very interested international employment at some point in my career, if that were a possibility. And I'd like to increase my knowledge of the world at large by learning a new spoken language.
+
+* Improving Spanish
 * Learning Japanese
-* Blog posts
 
 
 ## What does it mean to be a good developer?
