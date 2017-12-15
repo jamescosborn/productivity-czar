@@ -1,8 +1,8 @@
 # Angular Extended Independent Project
 by James Osborn
 
-## Topic List
-Here are some areas I'd like to focus on improving in order to become a better developer.
+## Hot Topic List
+Every now and then it's good to pause and reflect on where you've come from and where you're going. Here are some areas I'd like to focus improving on in order to become a better developer:
 
 ### Design
 My work at Epicodus has been largely focused on back-end languages. I often don't style my projects because I'm focused on the functionality first. I'd like to take some lessons on the design side to improve on my ability to give my projects great styles.
@@ -13,15 +13,14 @@ My work at Epicodus has been largely focused on back-end languages. I often don'
 
 
 ### Databases
-Being able to manage databases is going to be vital to my future as a back-end developer, both for working for my future employer and for any independent projects I decide to take on. It's important that I know the fundamentals of several different databases and their languages, in order to compare/contrast their usefulness and use the right one for the right project, and to become a developer with a diverse skillset.
+Being able to manage databases is going to be vital as a back-end developer, both for future employment and for any independent projects I decide to take on. It's important that I know the fundamentals of several different databases languages, in order to compare/contrast their usefulness for projects and to become a developer with a diverse skillset.
+
 * Firebase
 * SQL
 
 
 ### Coding with New Languages
-Now that I've learned the basics of a few different languages, I feel I'm ready to branch out and start to learn another language. Ruby and Python have interested me. I should compare and contrast the two further to decide which one I might want to learn next.
-
-Additionally, I want to keep reviewing and expanding on languages I've learned in the past, to keep those skills sharp and up to date.
+Now that I've learned the basics of a few different languages, I feel I'm ready to branch out and learn another language. Ruby and Python have interested me. I should compare and contrast the two further to decide which one I might want to learn next.
 
 * Ruby
 * Python
@@ -40,24 +39,23 @@ I want to keep reviewing and expanding on languages I've learned in the past, bo
 
 ### Project Management
 
-I really like working with small teams of developers, finding out what their strengths are, and then figuring out ways to help us all come together and accomplish great things. I want to expand on my experience as a project manager and search out employment opportunities in this subsect of the tech industry.
+I really like working with small teams of developers, finding out what their strengths are, and then figuring out ways to help us all come together and accomplish great things. I want to expand on my experience as a project manager and search out employment opportunities in this department of the tech industry.
 
 * Project Management
 * Game Development & Unity
-* Technical Terminology
 
 ### Employment Preparation
 
 I'm looking forward to taking some of the skills I've learned and putting them into practice in the field. In order to prepare myself for upcoming interviews, I'd like to focus on:
 
-
+* Technical Terminology
 * Whiteboarding Practice
-* Interview Practice
+* Practice Interview Questions
 * Writing Cover Letters
 * Resume Preparation
 * Improving my LinkedIn
 * Blog posts
-* Technical Writing
+* Polishing past projects and READMEs
 * Giving Presentations
 
 ### New Spoken languages
@@ -67,7 +65,6 @@ I've worked on some really diverse teams in the past, and I know how much divers
 * Learning Japanese
 
 
-## What does it mean to be a good developer?
 
 ## Taking a Break: A Lesson From Metal Dog
 
@@ -89,6 +86,14 @@ And you know what? Turns out there is scientific data to back up Metal Dog's phi
 https://www.sciencedaily.com/releases/2011/02/110208131529.htm
 
 So next time you are facing down a particularly challenging dilemma, consider taking a break. It may very well be the solution to your problem.
+
+## What does it mean to be a good developer?
+
+How did all these bugs get inside my computer? Why is Ajax named after a bathroom cleaner? How do you recharge the key crystal components to keep computers from melting?
+
+If you know the answers to these questions, and more, please email me and let me know!
+
+jamescarlosborn@gmail.com
 
 ## License
 This README.md uses the MIT license.
