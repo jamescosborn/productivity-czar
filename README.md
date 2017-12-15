@@ -1,7 +1,14 @@
 # Angular Extended Independent Project
 by James Osborn
 
-## Hot Topic List
+#### Table of Contents
+```
+  i. Technical List  
+  ii. Productivity Czar Wireframe  
+  iii. blog posts  
+```
+
+## Technical List
 Every now and then it's good to pause and reflect on where you've come from and where you're going. Here are some areas I'd like to focus improving on in order to become a better developer:
 
 ### Design
@@ -65,6 +72,11 @@ I've worked on some really diverse teams in the past, and I know how much divers
 * Learning Japanese
 
 
+## Productivity Czar Wireframe
+#### *An app the encourages you along the development cycle by incrementing a number every time you complete a task. Totally not vaporware.*
+
+--
+![alt text](productivity-czar.png "Description goes here")
 
 ## Taking a Break: A Lesson From Metal Dog
 
@@ -74,7 +86,7 @@ I've worked on some really diverse teams in the past, and I know how much divers
 
 Then Metal Dog's mic snapped on, and he proceeded to give some of the best, most sagely advice that I've ever heard in my life:
 
-#### *"When I'm playing the game and I start to get in a rut, start losing or dying a lot, I put down the controller and I take a break. I'll go make myself a sandwich, hang out with my old lady, go on a walk, whatever. I'll just do something else to break the rut."*
+#### *"When I'm playing the game and I start to get in a rut, start losing or dying a lot, I put down the controller and I take a break. I'll go make myself a sandwich, hang out with my girlfriend, go on a walk, whatever. I'll just do something else to break the rut."*
 
 --  
 
@@ -89,11 +101,8 @@ So next time you are facing down a particularly challenging dilemma, consider ta
 
 ## What does it mean to be a good developer?
 
-How did all these bugs get inside my computer? Why is Ajax named after a bathroom cleaner? How do you recharge the key crystal components to keep computers from melting?
-
-If you know the answers to these questions, and more, please email me and let me know!
-
-jamescarlosborn@gmail.com
+To me, being a good developer means applying a combination of tenacity, attention to detail, high spirits, and hard work. It means being able to break down big problems into much smaller ones, then having the endurance and fortitude to knock out those tasks one at a time until you're done.  And you're never truly done.
 
 ## License
+Copyright (c) 2017 James Osborn  
 This README.md uses the MIT license.
