@@ -87,7 +87,7 @@ I spent a long time thinking about what this app should do, how many buttons it 
 
 Growing up I always liked the Magic 8 Balls that would tell you your fortune. It seems like circles are not as prevalent in app design and everything is much more rectangular. I wanted to buck that trend with this idea in order to be a little new and different. For these reasons I picked the circular shape.
 
-I used MS Paint for this wireframe, but I'm beginning to desire higher fidelity wire frames than what paint can produce. Sketch was recommended to me a fellow student today, but it is not available for PCs. After I made this wireframe, I spent some time looking at Wireframe.cc as a free alternative for next week's group project.
+I used MS Paint for this wireframe, but I'm beginning to desire higher fidelity wire frames than what paint can produce. Sketch was recommended to me by a fellow student today, but it is not available for PCs. After I made this wireframe, I spent some time looking at Wireframe.cc as a free alternative for next week's group project.
 
 Here is one other wireframe I made for my Intro group project. I generally enjoy the initial stage of planning out projects and throwing ideas around.  I find if everyone's voices and ideas are heard initially, and again throughout the development cycle, they are happier and more personally invested in the success of the project.
 
@@ -101,9 +101,9 @@ Here is one other wireframe I made for my Intro group project. I generally enjoy
 
 ## Taking a break: a lesson from Metal Dog
 
-2009 -- One random evening in my university days, I was playing an online video game called Call of Duty: Modern Warfare 2. It was a very popular game at the time with millions of players worldwide. Over the chat channel I heard someone say, "OMG, it's Metal Dog! Metal Dog is in our game!!! Metal Dog! Ahhhhh!"
+2009 -- One random evening in my university years, I was playing an online video game called Call of Duty: Modern Warfare 2. It was a very popular game at the time with millions of players worldwide. Over the chat channel I heard someone say, "OMG, it's Metal Dog! Metal Dog is in our game!!! Metal Dog! Ahhhhh!"
 
-"Who's Metal Dog?" someone else asked. Metal Dog, with a bunch of Xs and numbers interspersed in his gamertag, was the Number 1 player in CoD: MW2 on Xbox 360, the first person informed us. I checked the scoreboard and Metal Dog was at the top, carrying our team to victory. After the match ended, I checked the in-game global leaderboard and verified that this person was indeed the number 1 player in the world, and they were. "Metal Dog, can you talk?? Give us some advice," one of them asked.
+"Who's Metal Dog?" someone else asked. Metal Dog, with a bunch of Xs and numbers interspersed in his gamertag, was the Number 1 player in CoD: MW2 on Xbox 360, the first person informed us. I checked the scoreboard and Metal Dog was at the top, carrying our team to victory. After the match ended, I checked the in-game global leaderboard to  verify that this person was indeed the number 1 player in the world, and they were. "Metal Dog, can you talk?? Give us some advice," one of them asked.
 
 Then Metal Dog's mic snapped on, and he proceeded to give some of the best, most sagely advice that I've ever heard in my life:
 
@@ -112,7 +112,7 @@ Then Metal Dog's mic snapped on, and he proceeded to give some of the best, most
 --  
 
 
-This advice from Metal Dog can be extrapolated out of gaming and applied to web development, learning a new language, facing a particularly challenging task at work, or trying just about anything new in life. That lesson is: Take a break every once in awhile if things are getting tough. Walk around. Get in a different mind space for a moment, and consider a new approach.
+It's been of my opinion and practice that the advice given to us from Metal Dog can be extrapolated out of gaming, and applied to web development, learning a new language, facing a particularly challenging task at work, or towards trying anything new in life. The lesson is simple: Take a break every once in awhile if things are getting tough. Walk around. Get in a different mind space for a moment, and consider a new approach.
 
 And you know what? Turns out there is scientific data to back up Metal Dog's philosophy. A 2011 study done by the University of Illinois at Urbana-Champaign concluded that brief diversions from a task can dramatically improve one's ability to focus on that task for long periods of time.
 
