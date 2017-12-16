@@ -7,16 +7,16 @@ by James Osborn
 ```
   i. Technical List  
   ii. Productivity Czar, .entropy wireframes  
-  iii. blog posts  
+  iii. 'Taking a break: a lesson from Metal Dog' -- a blog post
 ```
 
 *--*
 
 ## Technical List
-Every now and then it's good to pause and reflect on where you've come from and where you're going. Here are some areas I'd like to focus improving on in order to become a better developer:
+Every now and then it's good to pause and reflect on where you've come from and where you're going. Here are some areas I'd like to focus on improving in order to become a better developer:
 
 ### Design
-My work at Epicodus has been largely focused on back-end languages. I often don't style my projects because I'm focused on the functionality first. I'd like to take some lessons on the design side to improve on my ability to give my projects great styles.
+My work at Epicodus has been largely focused on back-end languages. I often don't style my projects, because I'm focused on the functionality. I'd like to take some lessons on the design side to improve on my ability to style my projects.
 * UI/UX Design
 * Wireframes
 * Photoshop
@@ -24,7 +24,7 @@ My work at Epicodus has been largely focused on back-end languages. I often don'
 
 
 ### Databases
-Being able to manage databases is going to be vital as a back-end developer, both for future employment and for any independent projects I decide to take on. It's important that I know the fundamentals of several different databases languages, in order to compare/contrast their usefulness for projects and to become a developer with a diverse skillset.
+Being able to manage databases is going to be vital as a back-end developer, both for future employment and for any independent projects I decide to take on. It's important that I know the fundamentals of several different database languages, in order to become a developer with a diverse skillset.
 
 * Firebase
 * SQL
@@ -50,7 +50,7 @@ I want to keep reviewing and expanding on languages I've learned in the past, bo
 
 ### Project Management
 
-I really like working with small teams of developers, finding out what their strengths are, and then figuring out ways to help us all come together and accomplish great things. I want to expand on my experience as a project manager and search out employment opportunities in this department of the tech industry.
+I really like working with small teams of developers. I'm good at finding out what their strengths are and then figuring out ways to help us all come together and accomplish great things. I want to expand on my experience as a project manager and search out employment opportunities in this department of the tech industry.
 
 * Project Management
 * Game Development & Unity
@@ -64,13 +64,13 @@ I'm looking forward to taking some of the skills I've learned and putting them i
 * Practice Interview Questions
 * Writing Cover Letters
 * Resume Preparation
-* Improving my LinkedIn
+* Improving my LinkedIn profile  
 * Blog posts
 * Polishing past projects and READMEs
 * Giving Presentations
 
 ### New Spoken languages
-I've worked on some really diverse teams in the past, and I know how much diversity adds to a groups dynamics and success. I'd be very interested international employment at some point in my career, if that were a possibility. And I'd like to increase my knowledge of the world at large by learning a new spoken language.
+I've worked on some really diverse teams in the past, so I know how much diversity can add to a group's dynamics and success. I'd be very interested in international employment at some point in my career, if it were a possibility. And I'd like to increase my knowledge of the world at large by learning a new spoken language.
 
 * Improving Spanish
 * Learning Japanese
@@ -78,18 +78,20 @@ I've worked on some really diverse teams in the past, and I know how much divers
 *--*
 
 ## Productivity Czar Wireframe
-#### *An app the encourages you along a production cycle by incrementing a number every time you complete a task. Totally not vaporware.*
+#### *An app that encourages you along a production cycle by incrementing a number every time you complete a task. Totally not vaporware.*
 
 --
 ![alt text](productivity-czar.png "A low-fi wireframe for a production encouragement app")
 
 I spent a long time thinking about what this app should do, how many buttons it should have, and rearranging these buttons and their names on the wireframe. Finally I decided it should be much more simple and straightforward.   
 
-Growing up I always liked the Magic 8 Balls that would tell you your fortune. For that reason I picked the circular shape. It seems like circles are not as prevalent in app design, and everything is much more rectangular. I wanted to buck that trend with this idea.
+Growing up I always liked the Magic 8 Balls that would tell you your fortune. It seems like circles are not as prevalent in app design and everything is much more rectangular. I wanted to buck that trend with this idea in order to be a little new and different. For these reasons I picked the circular shape.
 
-I used MS Paint for this wireframe, but I'm beginning to desire higher fidelity wire frames that what paint can produce. Sketch was recommended to me, but it is not available for PCs. After I made this wireframe, I spent some time been at Wireframe.cc today as an alternative for next week's group project wireframe.
+I used MS Paint for this wireframe, but I'm beginning to desire higher fidelity wire frames than what paint can produce. Sketch was recommended to me a fellow student today, but it is not available for PCs. After I made this wireframe, I spent some time looking at Wireframe.cc as a free alternative for next week's group project.
 
-Here is one other wireframe I made for my Intro group project. I generally enjoy the initial stage of planning out projects and throwing ideas around.  I find the more everyone's voices and ideas are heard initially and throughout the development cycle, the more personally invested they will be in the success of the project.
+Here is one other wireframe I made for my Intro group project. I generally enjoy the initial stage of planning out projects and throwing ideas around.  I find if everyone's voices and ideas are heard initially, and again throughout the development cycle, they are happier and more personally invested in the success of the project.
+
+~
 
 ![alt text](proposedStructure2.png "A low-fi storyboard for an interactive cyberpunk short story")
 
@@ -117,12 +119,6 @@ And you know what? Turns out there is scientific data to back up Metal Dog's phi
 https://www.sciencedaily.com/releases/2011/02/110208131529.htm
 
 So next time you are facing down a particularly challenging dilemma, consider taking a break. It may very well be the solution to your problem.
-
-*--*
-
-## What does it mean to be a good developer?
-
-To me, being a good developer means applying a combination of tenacity, attention to detail, high spirits, and hard work. It means being able to break down big problems into much smaller ones, then having the endurance and fortitude to knock out those tasks one at a time until you're done.  And you're never truly done.
 
 *--*
 
