@@ -89,13 +89,11 @@ Growing up I always liked the Magic 8 Balls that would tell you your fortune. It
 
 I used MS Paint for this wireframe, but I'm beginning to desire higher fidelity wire frames than what paint can produce. Sketch was recommended to me by a fellow student today, but it is not available for PCs. After I made this wireframe, I spent some time looking at Wireframe.cc as a free alternative for next week's group project.
 
-After spending some time away from this and coming back, I had the idea for a few changes. There needed to be a clear button, and it seemed like their needed to be some additional functionality. Adding a countdown that could be incremented by an hour would be a good lesson.
+After spending some time away from this and coming back, I had the idea for a few changes. There needed to be a clear button, and it seemed like there should be some additional functionality. Adding a countdown that could be incremented by an hour would be a good lesson.
 
 ![alt text](productivity-czar2.png "A low-fi wireframe for a production encouragement app")
 
-Here is one other wireframe I made for my Intro group project. I generally enjoy the initial stage of planning out projects and throwing ideas around.  I find if everyone's voices and ideas are heard initially, and again throughout the development cycle, they are happier and more personally invested in the success of the project.
-
-~
+Here is one more wireframe I made for my Intro group project. I generally enjoy the initial stage of planning out projects and throwing ideas around.  I find if everyone's voices and ideas are heard initially, and again throughout the development cycle, they are happier and more personally invested in the success of the project.
 
 ![alt text](proposedStructure2.png "A low-fi storyboard for an interactive cyberpunk short story")
 
